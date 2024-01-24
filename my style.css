@@ -1,0 +1,27 @@
+body{
+background-color:#7affe0;
+color:black;
+justify-content:center;
+}
+.header{
+position:relative;
+align-items:center;
+padding:0%;
+width:0%;
+}
+.navbar a{
+font-size:20px;
+color:black;
+margin-left:30px;
+}
+.box{
+border:5px solid #ff8c7a;
+width:500px;
+height:170px;
+border-radius:20px;
+padding:20px;
+margin:auto;
+}
+.box:hover{
+color:#8e7aff;
+}
